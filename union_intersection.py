@@ -17,3 +17,4 @@ def intersection(arr1, arr2, result):
          result.append(value)
    result.sort()
    print("intersection : ", result)
+   
